@@ -67,44 +67,6 @@ The dataset was acquired from Kaggle and contains information on data job roles 
 - Enhance data cleaning and feature transformation.
 - Aim to increase accuracy and reduce MSE.
 
-## Usage
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/predicting-data-job-salaries.git
-   cd predicting-data-job-salaries
-   ```
-
-2. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. Run the project:
-   ```sh
-   python main.py
-   ```
-
-## Repository Structure
-```
-predicting-data-job-salaries/
-│
-├── data/
-│   ├── raw/                 # Raw data files
-│   └── processed/           # Processed data files
-│
-├── notebooks/               # Jupyter notebooks for data exploration and analysis
-│
-├── src/
-│   ├── data_preprocessing.py # Scripts for data cleaning and preprocessing
-│   ├── feature_engineering.py # Scripts for feature engineering
-│   ├── model_training.py     # Scripts for model training and evaluation
-│
-├── requirements.txt         # List of dependencies
-├── README.md                # Project overview and instructions
-└── main.py                  # Main script to run the project
-```
-
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
